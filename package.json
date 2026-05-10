@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "vite build",
+    "build": "vite build --base=/Arbeitszeiten-Webapp/",
     "preview": "vite preview"
   },
   "dependencies": {
